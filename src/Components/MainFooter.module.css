@@ -1,0 +1,39 @@
+.footer {
+    border-top: 1px dotted #999;
+    margin-top: 20px;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+.socialMedia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px 0px;
+}
+
+.socialMedia a {
+    margin: 0px 10px;
+    transition: all .4s;
+}
+
+.socialMedia div a:hover {
+    border-radius: 100%;
+    transform: scale(1.2);
+}
+
+.bio{
+    text-align: center;
+    letter-spacing: 1.5px;
+    word-spacing: 3px;
+    color: #222;
+    padding: 0px 10px;
+    line-height: 25px;
+}
+
+@media only screen and (max-width:450px) {
+    .socialMedia{
+        justify-content: space-around;
+    }
+}
