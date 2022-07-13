@@ -5,9 +5,11 @@
     height: 70px;
     display: flex;
     align-items: center;
+    position: relative;
 }
 
 .header_items {
+    position: absolute;
     width: 100%;
     display: flex;
     align-items: center;
@@ -81,7 +83,6 @@
     }
 
     .checkbox:checked~.header_items {
-        position: fixed;
         top: 72px;
         display: inline-block;
         width: 100wh;
