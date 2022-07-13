@@ -8,12 +8,6 @@ const Skills = () => {
                 <span>Skills</span>
                 <span></span>
             </div>
-            <section className={styles.calculate}>
-                <main>
-                    <div className={styles.code}></div>
-                    <div className={styles.art}></div>
-                </main>
-            </section>
             <div className={styles.wrap}>
                 <section className={styles.skills_content}>
                     <ul className={styles.artSkills}>
@@ -61,3 +55,4 @@ const Skills = () => {
 };
 
 export default Skills;
+
