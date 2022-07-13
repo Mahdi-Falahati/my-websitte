@@ -11,9 +11,9 @@ const Images = [
     { src: G1, addres: "https://github.com/Mahdi-Falahati/use-https.git" },
     { src: G2, addres: "https://github.com/Mahdi-Falahati/TodoList" },
     { src: G3, addres: "https://github.com/Mahdi-Falahati/Audit-of-income-and-expenses" },
-    { src: G4, addres: "https://codepen.io/mahdi-falahati/pen/poLyroj" },
-    { src: G5, addres: "https://codepen.io/mahdi-falahati/details/ExEKXXK" },
-    { src: G6, addres: "" },
+    { src: G4, addres: "https://codepen.io/mahdi-falahati/pen/ExEKmad" },
+    { src: G5, addres: "https://codepen.io/mahdi-falahati/pen/poLyroj" },
+    { src: G6, addres: "https://codepen.io/mahdi-falahati/pen/BarzVGW" },
 ];
 
 const OpenSourceProject = () => {
@@ -38,3 +38,4 @@ const OpenSourceProject = () => {
 };
 
 export default OpenSourceProject;
+
