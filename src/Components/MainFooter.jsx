@@ -12,7 +12,7 @@ function MainFooter() {
                 <a href="tel:+989021571617">
                     <img src={callMe} title="My Number Phone" alt="Number Phone Logo" />
                 </a>
-                <a href="https://telegram.me/darkjockey" target="_blank">
+                <a href="https://telegram.me/Mahdi_Falahatii" target="_blank">
                     <img src={telegram} title="Telegram" alt="Telegram Logo" />
                 </a>
                 <a href="https://www.instagram.com/rc_0_1" target="_blank">
